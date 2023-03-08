@@ -16,4 +16,6 @@
 
 7-movethatfile is a script that moves the file betty from /tmp/ to /tmp/my_first_directory
 
+8-firstdelete is a script that delete the file betty in /tmp/my_first_directory
+
 
