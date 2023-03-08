@@ -1,1 +1,1 @@
-This repository contain all tasks I do about system enginneering development
+This repository contains all tasks I do about system enginneering development
