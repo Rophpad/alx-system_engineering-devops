@@ -20,4 +20,6 @@
 
 9-firstdirdeletion is a script that delete tje directory my_first_directory in the /tmp directory
 
+10-back is a script that changes the working directory to the previous one
+
 
