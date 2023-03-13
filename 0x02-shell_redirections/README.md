@@ -32,4 +32,13 @@
 
 15-countthatword display the number of lines that contain the pattern “bin” in the file /etc/passwd
 
+16-whatsnext display lines containing the pattern “root” and 3 lines after them in the file /etc/passwd
+
+16-whatsnext display lines containing the pattern “root” and 3 lines after them in the file /etc/passwd
+
+16-whatsnext display lines containing the pattern “root” and 3 lines after them in the file /etc/passwd
+
+16-whatsnext display lines containing the pattern “root” and 3 lines after them in the file /etc/passwd
+
+16-whatsnext display lines containing the pattern “root” and 3 lines after them in the file /etc/passwd
 
