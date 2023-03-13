@@ -50,4 +50,5 @@
 
 20-hiago removes all letters c and C from input
 
+21-reverse reverse its input.
 
