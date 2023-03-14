@@ -14,4 +14,6 @@
 
 6-create_local_variable create a new local variable named BEST
 
+7-create_global_variable creates a new global variable named BEST
+
 
