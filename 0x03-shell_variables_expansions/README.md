@@ -12,4 +12,6 @@
 
 5-local_variables lists all local variables and environment variables and functions
 
+6-create_local_variable create a new local variable named BEST
+
 
