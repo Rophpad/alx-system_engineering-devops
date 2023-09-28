@@ -1,6 +1,5 @@
 #!/usr/bin/env bash
-
-# For Is
+# Display the content of the current directory
 
 list=$(ls)
 
