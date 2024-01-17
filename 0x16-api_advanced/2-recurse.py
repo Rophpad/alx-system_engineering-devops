@@ -7,7 +7,7 @@ after = None
 def recurse(subreddit, hot_list=[]):
     """Returns a list of titles of all hot posts on a given subreddit."""
     global after
-    user_agent = {'User-Agent': 'api_advanced-project'}
+    user_agent = {'User-Agent': 'My user Agent'}
     url = "https://www.reddit.com/r/{}/hot.json".format(subreddit)
     parameters = {'after': after}
     results = requests.get(url, params=parameters, headers=user_agent,
