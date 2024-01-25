@@ -2,13 +2,14 @@ server {
     listen 80;
     listen [::]:80 default_server;
 
-    server_name 127.0.0.1 10.247.233.86;
+    server_name 127.0.0.1 52.72.14.202;
 
     add_header X-Served-By 121852-web-01;
     root   /var/www/html/;
     index  index.html index.htm;
 
     location /airbnb-onepage/ {
+	alias ~/AirBnB_clone_v2/;
         include proxy_params;
         proxy_pass http://localhost:5000/airbnb-onepage/;
     }
